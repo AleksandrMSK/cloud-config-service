@@ -1,0 +1,17 @@
+.git
+.idea
+out
+src
+
+.gitignore
+
+.gradle
+gradle
+gradlew
+gradlew.bat
+
+*.md
+*.log
+*.zip
+*.tar.gz
+*.rar

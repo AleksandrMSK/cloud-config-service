@@ -1,0 +1,9 @@
+version: "1.0"
+
+services:
+  cloud-config-service:
+    container_name: cloud-config-service
+    build: .
+    restart: always
+    ports:
+      - 11224:11224
